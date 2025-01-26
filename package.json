@@ -7,7 +7,8 @@
     "queue": "node Queue.js",
     "stack": "node Stack.js",
     "linked-list": "node LinkedList.js",
-    "hash-table": "node HashTable.js"
+    "hash-table": "node HashTable.js",
+    "array": "node Array.js"
   },
   "keywords": [],
   "author": "",
