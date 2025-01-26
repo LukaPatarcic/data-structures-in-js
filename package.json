@@ -1,0 +1,15 @@
+{
+  "name": "data-structures-in",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Queue.js",
+  "scripts": {
+    "queue": "node Queue.js",
+    "stack": "node Stack.js",
+    "linked-list": "node LinkedList.js",
+    "hash-table": "node HashTable.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
